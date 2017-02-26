@@ -12,8 +12,5 @@ Once code is uploaded to the bluetooth + Arduino combination, the placement of t
 Adafruit's Neopixel Tutorial is helpful for understanding power specifications:
 https://blog.adafruit.com/2013/08/30/adafruit-neopixel-uberguide/
 
-Contributor Guide
-
-[LINK TO CONTRIBUTING.md]
-
-License
+# CONTRIBUTOR GUIDE
+https://github.com/cernst122/techstyles/blob/master/contributing.md
