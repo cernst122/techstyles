@@ -1,4 +1,4 @@
-# Techstyles
+# TechStyles
 Integrate LED strips and bluetooth to any wearables project with an Arduino and an Adafruit Bluetooth shield!
 
 # USAGE
